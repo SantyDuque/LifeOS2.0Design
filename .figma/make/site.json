@@ -1,0 +1,10 @@
+{
+  "description": "Streamline personal management with a comprehensive platform that integrates tasks, goals, and wellness tracking for enhanced productivity and well-being.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
